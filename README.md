@@ -4,13 +4,13 @@
 
 Banner [source](https://banner.godori.dev/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![Machine Learning](https://img.shields.io/badge/ML-Type-Classification-orange)
+![Last Commit](https://img.shields.io/github/last-commit/adin11/E-Commerce-Customer-Churn-Forecast-and-Analysis)
+![Type of ML](https://img.shields.io/badge/Type%20of%20ML-BinaryClassification-blue)
 ![License](https://img.shields.io/github/license/your-username/your-repo)
 
 ## 🔍 Business Problem
 
-Understanding and predicting customer churn is crucial in e-commerce or in any industry to reduce loss and improve retention strategies. This project analyzes customer behavior to forecast churn and guide data-driven decisions.
+Understanding Key Factors affecting customer churn is crucial in e-commerce or any other industry. It mainly helps in the reducing loss and maximizing profits for that particular service or company. Using data we can improve retention strategies which may prevent loss of customers. This project analyzes customer behavior using different charts,visuals,techniques to understand the behaviour of cutomers who churn and also can prevent future customer's churning using ML.
 
 ## 📊 Key Insights
 
