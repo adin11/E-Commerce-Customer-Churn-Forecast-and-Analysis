@@ -1,8 +1,8 @@
+![banner](banner-1.png)
+
 # 🛒 E-Commerce Customer Churn Forecast and Analysis
 
-![banner](https://your-banner-source.com/banner.png)
 Banner [source](https://banner.godori.dev/)
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo)
 ![Machine Learning](https://img.shields.io/badge/ML-Type-Classification-orange)
