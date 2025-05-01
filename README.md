@@ -2,7 +2,6 @@
 
 # 🛒 E-Commerce Customer Churn Forecast and Analysis
 
-Banner [source](https://banner.godori.dev/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/adin11/E-Commerce-Customer-Churn-Forecast-and-Analysis)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-BinaryClassification-blue)
@@ -18,7 +17,7 @@ Understanding Key Factors affecting customer churn is crucial in e-commerce or a
 ![Count plot](assets/payment.png)
 
 ### 2. Preffered Order category of Churning Customer:  
-![Barchart](assets/order cat.png)
+![Barchart](assets/order.png)
 
 ### 3. Login Device of Chruned Customers:  
 ![Barchart](assets/device.png)
@@ -44,14 +43,13 @@ Understanding Key Factors affecting customer churn is crucial in e-commerce or a
 ## 🔬 Methods
 
 ### 🔹 Outlier Handling
-- Used **IQR** method and **Box Plots** to detect and handle statistical outliers in numeric features.
+- Used **Box Plots** to detect and handle statistical outliers in numeric features.
 
 ### 🔹 Customer Behaviour Analysis
 - Conducted **univariate and bivariate analysis**.
 - Aggregated data by churn label to detect behavior patterns.
 
 ### 🔹 Feature Engineering & Correlation
-- Generated new features like **purchase frequency**, **engagement score**.
 - Detected multicollinearity using **Variance Inflation Factor (VIF)**.
 - Performed **target encoding** for categorical features.
 
@@ -73,4 +71,7 @@ Understanding Key Factors affecting customer churn is crucial in e-commerce or a
 
 This project is licensed under the [MIT License](LICENSE).
 ---
-Made with ❤️ by [Adin](https://github.com/adin11)
+
+### 👤 Author
+Developed and Documented by Adin Raja **Adin Raja** – [LinkedIn](https://www.linkedin.com/in/adinraja78/), [Gmail](mailto::adinraja78@gmail.com)
+---
