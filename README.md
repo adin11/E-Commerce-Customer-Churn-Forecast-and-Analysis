@@ -1,4 +1,4 @@
-![banner](asset/banner.png)
+![banner](assets/banner.png)
 
 # 🛒 E-Commerce Customer Churn Forecast and Analysis
 
@@ -15,10 +15,10 @@ Understanding Key Factors affecting customer churn is crucial in e-commerce or a
 ## 📊 Key Insights Supporting Business Growth:
 
 ### 1. Preffered Payment Mode of Chruning Customers:
-![Count plot](assets/paymwnt.png)
+![Count plot](assets/payment.png)
 
 ### 2. Preffered Order category of Churning Customer:  
-![Barchart](assets/flat_list.png)
+![Barchart](assets/order cat.png)
 
 ### 3. Login Device of Chruned Customers:  
 ![Barchart](assets/device.png)
@@ -30,10 +30,7 @@ Understanding Key Factors affecting customer churn is crucial in e-commerce or a
 ![Heatmaps](assets/complaint.png)
 
 ### 6. Co-Relations of features affecting Churn:  
-![Barchart](assets/correlation.png)
-
-### 7. ScatterPlot: Relationships of Different features with the Target(Price).
-![Scatter Plot](assets/scatter.png)
+![Barchart](assets/corelation.png)
 
 ---
 
