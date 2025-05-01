@@ -1,4 +1,4 @@
-![banner](banner-1.png)
+![banner](banner.png)
 
 # 🛒 E-Commerce Customer Churn Forecast and Analysis
 
