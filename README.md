@@ -9,7 +9,7 @@
 
 ## 🔍 Business Problem
 
-Understanding Key Factors affecting customer churn is crucial in e-commerce or any other industry. It mainly helps in the reducing loss and maximizing profits for that particular service or company. Using data we can improve retention strategies which may prevent loss of customers. This project analyzes customer behavior using different charts,visuals,techniques to understand the behaviour of cutomers who churn and also can prevent future customer's churning using ML.
+Understanding the key factors affecting customer churn is crucial in e-commerce or any other industry. It helps reduce losses and maximize profits for the service or company. Using data, we can improve retention strategies to prevent customer loss. This project analyzes customer behavior using various charts, visuals, and techniques to understand the behavior of churned customers and prevent future churn using machine learning.
 
 ## 📊 Key Insights Supporting Business Growth:
 
