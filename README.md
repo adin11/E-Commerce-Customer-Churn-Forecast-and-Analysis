@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](asset/banner.png)
 
 # 🛒 E-Commerce Customer Churn Forecast and Analysis
 
@@ -12,21 +12,28 @@ Banner [source](https://banner.godori.dev/)
 
 Understanding Key Factors affecting customer churn is crucial in e-commerce or any other industry. It mainly helps in the reducing loss and maximizing profits for that particular service or company. Using data we can improve retention strategies which may prevent loss of customers. This project analyzes customer behavior using different charts,visuals,techniques to understand the behaviour of cutomers who churn and also can prevent future customer's churning using ML.
 
-## 📊 Key Insights
+## 📊 Key Insights Supporting Business Growth:
 
-> 🔸 Most churned customers showed inactivity in last 30 days.  
-> 🔸 High-value customers rarely churn unless delivery time increases.  
-> 🔸 Increased frequency of returns correlates with churn risk.  
-> 🔸 XGBoost outperformed other models with balanced precision and recall.
+### 1. Preffered Payment Mode of Chruning Customers:
+![Count plot](assets/paymwnt.png)
 
----
+### 2. Preffered Order category of Churning Customer:  
+![Barchart](assets/flat_list.png)
 
-## 🧠 Key Features
+### 3. Login Device of Chruned Customers:  
+![Barchart](assets/device.png)
 
-- ✅ End-to-end ML pipeline from preprocessing to model evaluation.
-- ✅ Automated model training & metric logging.
-- ✅ Customer behavior insights via advanced EDA.
-- ✅ Highly optimized churn predictor with AUC score of 0.97.
+### 4. Avg Tenure years of churned and non churned customers:
+![Barchart](assets/tenure.png)
+
+### 5. Chruning Rate of Customers with and Without Complaints:
+![Heatmaps](assets/complaint.png)
+
+### 6. Co-Relations of features affecting Churn:  
+![Barchart](assets/correlation.png)
+
+### 7. ScatterPlot: Relationships of Different features with the Target(Price).
+![Scatter Plot](assets/scatter.png)
 
 ---
 
