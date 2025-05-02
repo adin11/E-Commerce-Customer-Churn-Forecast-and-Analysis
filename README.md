@@ -39,7 +39,7 @@ Understanding the key factors affecting customer churn is crucial in e-commerce 
 3. Customers tend to leave around the 4-year mark—consider introducing loyalty rewards, anniversary perks, or personalized offers around this time to keep them 
    engaged longer.
 4. 9% of users who complained eventually left, while 7.5% churned without complaining—so solving complaints faster and adding a quick 'Help us improve' option could really help keep more 
-   users around
+   users around.
 --- 
 ## ⚙️ Tech Stack
 
