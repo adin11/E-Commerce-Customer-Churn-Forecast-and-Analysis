@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/adin11/E-Commerce-Customer-Churn-Forecast-and-Analysis)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-BinaryClassification-blue)
-![License](https://img.shields.io/github/license/your-username/your-repo)
+![License](https://img.shields.io/github/license/adin11/E-Commerce-Customer-Churn-Forecast-and-Analysis)
 
 ## 🔍 Business Problem
 
@@ -13,19 +13,19 @@ Understanding the key factors affecting customer churn is crucial in e-commerce 
 
 ## 📊 Key Insights Supporting Business Growth:
 
-### 1. Preffered Payment Mode of Chruning Customers:
+### 1. Preffered Payment Mode of Churning Customers:
 ![Count plot](assets/payment.png)
 
-### 2. Preffered Order category of Churning Customer:  
+### 2. Preffered Order category of Churning Customers:  
 ![Barchart](assets/order.png)
 
-### 3. Login Device of Chruned Customers:  
+### 3. Login Device of Churned Customers:  
 ![Barchart](assets/device.png)
 
 ### 4. Avg Tenure years of churned and non churned customers:
 ![Barchart](assets/tenure.png)
 
-### 5. Chruning Rate of Customers with and Without Complaints:
+### 5. Churning Rate of Customers with and Without Complaints:
 ![Heatmaps](assets/complaint.png)
 
 ### 6. Co-Relations of features affecting Churn:  
