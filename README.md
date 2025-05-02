@@ -81,5 +81,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### 👤 Author
-Developed and Documented by Adin Raja **Adin Raja** – [LinkedIn](https://www.linkedin.com/in/adinraja78/), [Gmail](mailto::adinraja78@gmail.com)
+Developed and Documented by **Adin Raja** – [LinkedIn](https://www.linkedin.com/in/adinraja78/), [Gmail](mailto::adinraja78@gmail.com)
 ---
