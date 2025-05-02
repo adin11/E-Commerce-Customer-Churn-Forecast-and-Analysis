@@ -32,7 +32,15 @@ Understanding the key factors affecting customer churn is crucial in e-commerce 
 ![Barchart](assets/corelation.png)
 
 ---
-
+### Recommendations to Improve Retention Rate:
+1. Encourage users to switch to UPI by offering exclusive discounts or cashback, as customers using UPI show higher retention compared to debit card users.
+2. Since most churned users logged in via mobile, focus on making the mobile experience smoother. Use in-app notifications to share new launches or special discounts— 
+   keep them engaged and coming back.
+3. Customers tend to leave around the 4-year mark—consider introducing loyalty rewards, anniversary perks, or personalized offers around this time to keep them 
+   engaged longer.
+4. 9% of users who complained eventually left, while 7.5% churned without complaining—so solving complaints faster and adding a quick 'Help us improve' option could really help keep more 
+   users around
+--- 
 ## ⚙️ Tech Stack
 
 - **Python** (3.10+)
